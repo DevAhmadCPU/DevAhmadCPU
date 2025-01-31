@@ -5,7 +5,7 @@
         🛠️ Backend development with Node.js & Express
         🔐 Authentication & security-focused projects
         👨‍🏫 Beginner-friendly projects for mentoring new developers)
-- 📫 How to reach me hammadismail972@gmail.com
+- 📫 How to reach me hammadismail972@gmail.com || +2349155645984(WhatsApp) || https://www.linkedin.com/in/ismail-hammad-bb73152b9(LinkedIn)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Builder. 🚀(always creating, learning, teaching, and improving—whether it’s code, projects, or myself.🔥)
 
